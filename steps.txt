@@ -1,0 +1,16 @@
+Steps to achieve the task
+
+- Daten einlesen
+	- Berücksichtigung der 20 Uhr Aufnahmen
+	- Auswerfen der 20 Uhr Aufnahmen
+	- Beschränken auf das "IR_134" Band
+
+
+
+- Gebiet auf den Kongo beschränken
+
+- Monatliche Wolkendaten herausziehen
+
+- Werte vergleichen
+
+- Frage beantworten
